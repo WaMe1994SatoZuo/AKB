@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="css/base.css">
+    <link rel="stylesheet" type="text/css" href="css/index_style.css">
+</head>
+<body>
+<div class="top wrapper" >
+    <ul>
+        <li><a href="#"><img src="image/2d29ce5e0aa7c79c580d2170fc869bed.jpg" alt="" /></a></li>
+        <li><a href="#"><img src="" alt="" /></a></li>
+        <li><a href="#"><img src="" alt="" /></a></li>
+        <li><a href="#"><img src="" alt="" /></a></li>
+        <li><a href="#"><img src="" alt="" /></a></li>
+    </ul>
+    <h1> <img src="image/logo.jpg" alt=""></h1>
+    <div class="mid">
+        <p>＼来试着成为成员的粉丝吧!／<span><a href="#">免费会员注册</a></span></p>
+        <ol>
+            <li><label>AKB48账号</label>
+                 <input type="text" name="id">
+                </li>
+            <li> <label for="">密码</label>
+                  <input type="password" name="">
+            </li>
+            <li><input type="image" src="image/btn.gif"></li>
+        </ol>
+    </div>
+    <div class=right>
+        <p><a href="#">Chinese</a><a href="#">English</a></p>
+        <p><input type="checkbox" name=""></p>
+    </div>
+</div>
+<div class="clear">
+</div>
+<div class="shop wrapper">
+<a href="#"><img src="image/official_buyeeBanner60311.jpg" alt=""></a>
+</div>
+<div class="clear"></div>
+<div class="banner wrapper">
+      <div class="bleft">
+
+      </div>
+      <div class="bright">
+         <dl>
+             <dt><img src="image/main_side_ttl_pickup.png" alt=""></dt>
+             <dd><a href="#"><img src="image/subline1.jpg" alt=""></a></dd>
+         </dl>
+         <dl>
+             <dt><img src="image/main_side_ttl_pickup.png" alt=""></dt>
+             <dd><a href="#"><img src="image/subline2.jpg" alt=""></a></dd>
+         </dl>
+         <dl>
+             <dt><img src="image/main_side_ttl_pickup.png" alt=""></dt>
+             <dd><a href="#"><img src="image/subline3.jpg" alt=""></a></dd>
+         </dl>
+      </div>
+</div>
+<div class="clear"></div>
+
+<div class="nav wrapper" >
+      <ul>
+          <li>|</li>
+          <li><a href="#">新闻</a></li>
+          <li>|</li>
+          <li><a href="#">成员</a></li>
+          <li>|</li>
+          <li><a href="#">日程表</a></li>
+          <li>|</li>
+          <li><a href="#">新闻</a></li>
+          <li>|</li>
+          <li><a href="#">门票</a></li>
+          <li>|</li>
+          <li><a href="#">AKB48剧场</a></li>
+          <li>|</li>
+          <li><a href="#">新闻</a></li>
+          <li>|</li>
+          <li><a href="#">新闻</a></li>
+          <li>|</li>
+          <li><a href="#">粉丝俱乐部</a></li>
+          <li>|</li>
+          <li><a href="#">握手会</a></li>
+          <li>|</li>
+      </ul>
+</div>
+<div class="clear"></div>
+<div class='content wrapper' >
+     <div class="box">
+          <div class="left">
+               <div class="lt">
+                   <h2><img src="image/ttl_news.png" alt="">
+                       <a href="#">新闻事件</a>
+                   </h2>
+                   <ul>
+                       <li>
+                           <span>2019.6.19</span>
+                           <a href="#">Theater information</a>
+                           <p><a href="#">【AKB48（山内、久保、千葉、西川、鈴木、大盛）】7月27日（土）「The Chaos！」出演</a></p>
+                       </li>
+                       <li>
+                           <span>2019.6.19</span>
+                           <a href="#">Theater information</a>
+                           <p><a href="#">【AKB48（山内、久保、千葉、西川、鈴木、大盛）】7月27日（土）「The Chaos！」出演</a></p>
+                       </li>
+                       <li>
+                           <span>2019.6.19</span>
+                           <a href="#">Theater information</a>
+                           <p><a href="#">【AKB48（山内、久保、千葉、西川、鈴木、大盛）】7月27日（土）「The Chaos！」出演</a></p>
+                       </li>
+                       <li>
+                           <span>2019.6.19</span>
+                           <a href="#">Theater information</a>
+                           <p><a href="#">【AKB48（山内、久保、千葉、西川、鈴木、大盛）】7月27日（土）「The Chaos！」出演</a></p>
+                       </li>
+                       <li>
+                           <span>2019.6.19</span>
+                           <a href="#">Theater information</a>
+                           <p><a href="#">【AKB48（山内、久保、千葉、西川、鈴木、大盛）】7月27日（土）「The Chaos！」出演</a></p>
+                       </li>
+                       <li>
+                           <span>2019.6.19</span>
+                           <a href="#">Theater information</a>
+                           <p><a href="#">【AKB48（山内、久保、千葉、西川、鈴木、大盛）】7月27日（土）「The Chaos！」出演</a></p>
+                       </li>
+                   </ul>
+               </div>
+               <div class="lb le">
+                      <div class=ltop>
+                      <div>
+                            <a href="#"><img src="image/ttl_today_event_normal_0 (1).png" alt=""></a>
+                      </div>
+                      <div>
+                      <div>
+                          <a href="#"><img src="image/ttl_today_event_normal_1 (1).png" alt=""></a>
+                      </div>
+                          <div>
+                              <a href="#"><img src="image/ttl_today_event_normal_2 (1).png" alt=""></a>
+                          </div>
+                      </div>
+                       <p>本日の AKB48 イベント</p>
+                      </div>
+                      <div class="lbot">
+                             <ul>
+                           <li>
+                               <h3>13:30</h3>
+                               <p>「AKB48アワーVOL.2　～スーパーファンタジー学院～」</p>
+                               <img src="image/icon_mediaBsCs_2.gif" alt="" />
+                           </li>
+                           <li>
+                               <h3>13:30</h3>
+                               <p>「AKB48アワーVOL.2　～スーパーファンタジー学院～」</p>
+                              <img src="image/icon_mediaRad_2.gif" alt="" />
+                           </li>
+                           <li>
+                               <h3>13:30</h3>
+                               <p>「AKB48アワーVOL.2　～スーパーファンタジー学院～」</p>
+                             <img src="image/icon_event_2.gif" alt="" />
+                           </li>
+                           <li></li>
+                       </ul>
+                         </div>
+               </div>
+               <div class="lb md">
+                  <div class=ltop>
+                      <div>
+                            <a href="#"><img src="image/ttl_today_event_normal_0 (1).png" alt=""></a>
+                      </div>
+                      <div>
+                          <a href="#"><img src="image/ttl_today_media_normal_1 (1).png" alt=""></a>
+                      </div>
+                       <p>本日の AKB48 イベント</p>
+               </div>
+               <div class="lbot">
+                             <ul>
+                           <li>
+                               <h3>13:30</h3>
+                               <p>「AKB48アワーVOL.2　～スーパーファンタジー学院～」</p>
+                               <img src="image/icon_mediaBsCs_2.gif" alt="" />
+                           </li>
+                           <li>
+                               <h3>13:30</h3>
+                               <p>「AKB48アワーVOL.2　～スーパーファンタジー学院～」</p>
+                              <img src="image/icon_mediaRad_2.gif" alt="" />
+                           </li>
+                           <li>
+                               <h3>13:30</h3>
+                               <p>「AKB48アワーVOL.2　～スーパーファンタジー学院～」</p>
+                             <img src="image/icon_event_2.gif" alt="" />
+                           </li>
+                           <li></li>
+                       </ul>
+                         </div>
+
+             </div>
+              <div class="lb rg">
+                   <h2>
+                    湯浅順司「その雫は、未来へと繋がる虹になる。」公演</h2>
+                   <p>2019年06月23日(日)</p>
+                   <h4><a href="#"><img src="image/btn_member_schedule (1).gif" alt=""></a></h4>
+                   <p><a href="#">チケット応募方法について</a></p>
+               </div>
+           </div>
+          <div class="right">
+                  <h2><img src="image/ttl_movie.png" alt=""></h2>
+                  <div>
+                     <ul>
+                         <li>AKB48 OFF-SHOT CAM #8 (Behind the stage cam)</li>
+                         <li>【インスタ映え】仲良し3人組で映えドーナツを食レポ!!したら全員天然だった…【こみTUBE】【Instagram】</li>
+                         <li>【インスタ映え】仲良し3人組で映えドーナツを食レポ!!したら全員天然だった…【こみTUBE】【Instagram】</li>
+                         <li>【インスタ映え】仲良し3人組で映えドーナツを食レポ!!したら全員天然だった…【こみTUBE】【Instagram】</li>
+                         <li>【インスタ映え】仲良し3人組で映えドーナツを食レポ!!したら全員天然だった…【こみTUBE】【Instagram】</li>
+                         <li>【インスタ映え】仲良し3人組で映えドーナツを食レポ!!したら全員天然だった…【こみTUBE】【Instagram】</li>
+                         <li>【インスタ映え】仲良し3人組で映えドーナツを食レポ!!したら全員天然だった…【こみTUBE】【Instagram】</li>
+                     </ul>
+                  </div>
+          </div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="img_item wrapper">
+    <div class="cont">
+          <div class="first">
+              <a href="#"></a>
+              <a href="#"></a>
+              <p><img src="image/new.png" alt="" /><label><input type="checkbox" name="">画像なしのSNSも表示する</label></p>
+          </div>
+    </div>
+    <div class="clear"></div>
+<div class="button wrapper">
+
+</div>
+<div class="clear">
+
+</div>
+<div class="sale wrapper">
+     <div class="left">
+        <div class="wap">
+            <h2><img src="image/ttl_sale.png" alt=""></h2>
+             <ul id="ulink">
+                 <li></li>
+                 <li></li>
+                 <li></li>
+                 <li></li>
+             </ul>
+        </div>
+     </div>
+     <div class="right">
+            <div class="contant" id="contant">
+                <div class="move" id="move">
+                    <div class="ul">
+                        <ul>
+                            <li><a href="#"><img src="image/ul1.jpg" alt=""></a></li>
+                        </ul>
+                    </div>
+                    <div  class="ul" style="display:none">
+                        <ul id="ulone">
+                             <li><a href=""#><img src="image/ul2.png" alt=""></a></li>
+                             <li><a href="#"><img src="image/ul3.jpg" alt=""></a></li>
+                             <li><a href="#"><img src="image/ul4.jpg" alt=""></a></li>
+                             <li><a href="#"><img src="image/ul5.jpg" alt=""></a></li>
+                             <li><a href="#"><img src="image/ul6.jpg" alt=""></a></li>
+                         </ul>
+                         <ol id="olink">
+                             <li></li>
+                             <li></li>
+                             <li></li>
+                             <li></li>
+                             <li></li>
+                         </ol>
+                    </div>
+                    <div class="ul" style="display:none">
+                        <ul id="ultwo">
+                            <li><a href="#"><img src="image/ol1.png" alt=""></a></li>
+                            <li><a href="#"><img src="image/ol2.png" alt=""></a></li>
+                            <li><a href="#"><img src="image/ol3.png" alt=""></a></li>
+                            <li><a href="#"><img src="image/ol4.png" alt=""></a></li>
+                            <li><a href="#"><img src="image/ol5.png" alt=""></a></li>
+                        </ul>
+                        <ol id="like">
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                        </ol>
+                    </div>
+                     <div class="ul" style="display:none">
+                         <ul>
+                             <li><a href="#"><img src="image/last.jpg" alt="" /></a></li>
+                         </ul>
+                     </div>
+                </div>
+            </div>
+     </div>
+</div>
+<div class="clear"></div>
+
+<div class="footer">
+           <h1><img src="image/ttl_link.png" alt=""><a href="#">リンクをもっと見る</a></h1>
+           <div class="ftop">
+               <h3><img src="image/ttl_pickup.png" alt=""></h3>
+               <ul>
+                   <li><a href="#"><img src="image/item1.jpg" alt=""></a></li>
+                   <li><a href="#"><img src="image/itrm2.jpg" alt=""></a></li>
+                   <li><a href="#"><img src="image/item3.png" alt=""/></a></li>
+                   <li><a href="#"><img src="image/item4.jpg" alt=""></a></li>
+                    <div class="clear"> </div>
+               </ul>
+           </div>
+           <div class="ftop">
+               <h3><img src="image/ttl_nowonsale.png" alt=""></h3>
+               <ul>
+                   <li><a href="#"><img src="image/item5.jpg" alt=""></a></li>
+                   <li><a href="#"><img src="image/item6.jpg" alt=""></a></li>
+                   <li><a href="#"><img src="image/item7.jpg" alt=""/></a></li>
+                   <li><a href="#"><img src="image/item8.jpg" alt=""></a></li>
+                   <li><a href="#"><img src="image/item9.jpg" alt=""></a></li>
+                   <li><a href="#"><img src="image/item10.jpg" alt=""></a></li>
+                   <li><a href="#"><img src="image/item11.jpg" alt=""></a></li>
+                    <div class="clear"> </div>
+               </ul>
+           </div>
+           <div class="ftop">
+               <h3><img src="image/ttl_top_link_media.gif" alt=""></h3>
+               <ul>
+                   <li><a href="#"><img src="image/item12.png" alt=""></a></li>
+                   <li><a href="#"><img src="image/item13.jpg" alt=""></a></li>
+                   <li><a href="#"><img src="image/item19.jpg" alt=""/></a></li>
+                    <div class="clear"> </div>
+               </ul>
+           </div>
+           <div class="ftop">
+               <h3><img src="image/ttl_event.png" alt=""></h3>
+               <ul>
+                   <li><a href="#"><img src="image/item15.jpg" alt=""></a></li>
+                   <li><a href="#"><img src="image/item16.jpg" alt=""></a></li>
+                   <li><a href="#"><img src="image/item17.jpg" alt=""/></a></li>
+                   <li><a href="#"><img src="image/item18.jpg" alt=""></a></li>
+                    <div class="clear"> </div>
+               </ul>
+           </div>
+
+</div>
+
+</div>
+<script>
+  function $(id){return document.getElementById(id)}
+  var ul_lis = document.querySelectorAll("#ulink>li")
+  var uls = document.querySelectorAll("#move>div")
+
+
+       console.log($("ultwo"))
+
+
+      for(var i=0;i<ul_lis.length;i++){
+        ul_lis[i].index = i;
+        ul_lis[i].onclick=function(){
+            for(var j=0;j<uls.length;j++){
+                uls[j].style.display = "none";
+            }
+         uls[this.index].style.display = "block";
+        }
+      }
+
+      var ols=document.querySelectorAll("#olink>li")
+      console.log(ols)
+
+
+
+      for(var i=0;i<ols.length;i++){
+        ols[i].index = i;
+        ols[i].onclick = function(){
+            $("ulone").style.left = -770*this.index+"px";
+            $("ulone").style.transition =1 +"s";
+            for(var j=0;j<ols.length;j++){
+                ols[j].style.background = "#fff"
+            }
+            ols[this.index].style.background = "#ff0"
+        }
+      }
+
+// 第二个录播图
+
+   var lis =document.querySelectorAll("#like>li")
+    console.log(lis)
+
+    for(var i=0;i<lis.length;i++){
+        lis[i].index = i;
+        lis[i].onclick = function(){
+            $("ultwo").style.left = -770*this.index+"px";
+            $("ultwo").style.transition = 1+"s";
+            for(var j=0;j<lis.length;j++){
+                lis[j].style.background = "#fff"
+            }
+            lis[this.index].style.background = "#ff0"
+        }
+    }
+
+
+</script>
+
+
+
+
+
+</body>
+</html>
